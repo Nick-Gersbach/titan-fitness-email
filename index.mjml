@@ -1,0 +1,370 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+
+      }
+
+      a {
+        color: #004c3f;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Top Divider -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#1d2228"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image width="200px" align="left" width="100px" src="https://i.ibb.co/JqQqkyg/titan-header-logo.png" href="https://www.titan.fitness/"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Thank You Text -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="32px" font-weight="bold">
+          Thanks for your order Nicholas!
+        </mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          We're working on your order and will update you with another email when your shipment is assigned a tracking number.
+        </mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          If you have any questions, call us at (888) 410-1503 or reply to this email.
+        </mj-text>
+        <mj-text padding-top="40px" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="32px" font-weight="bold">
+          Order #18103780612
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#a6a6a6" font-size="14px" line-height="20px">
+          Placed 01-10-2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Divider -->
+    </mj-raw>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-divider border-color="#a6a6a6"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Shipping Text -->
+    </mj-raw>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="24px" font-weight="bold">
+          Shipping
+        </mj-text>
+        <mj-text padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" font-weight="bold" line-height="20px">
+          Shipping Address
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          Nicholas Gersbach
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          123 Happy St
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          Chandler, AZ 85225-4661
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          480-444-5325
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="24px" font-weight="bold">
+          Shipping Method
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          Free Standard Shipping
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    </mj-raw>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-divider border-color="#a6a6a6"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Billing Text -->
+    </mj-raw>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="24px" font-weight="bold">
+          Billing
+        </mj-text>
+        <mj-text padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" font-weight="bold" line-height="20px">
+          Billing Address
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          Nicholas Gersbach
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          123 Happy St
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          Chandler, AZ 85225-4661
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          480-444-5325
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="24px" font-weight="bold">
+          Payment Details
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          PayPal
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Divider -->
+    </mj-raw>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-divider border-color="#a6a6a6"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Item Description -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="24px" font-weight="bold">
+          1 Item
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image width="200px" align="left" width="100px" src="https://i.ibb.co/GHncCzk/titan-multigrip-bar.jpg" href="https://titanfitness.com"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          Angled Multi-Grip Barbell V3
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#a6a6a6" font-size="14px" line-height="20px">
+          Sku: 430326
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#a6a6a6" font-size="14px" line-height="20px">
+          Qty: 1
+
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          $189.99
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Divider -->
+    </mj-raw>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-divider border-color="#a6a6a6"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Order Summary-->
+    </mj-raw>
+
+
+    <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="24px" font-weight="bold">
+            Order Summary
+          </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          Subtotal
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          Taxes
+        </mj-text>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" font-weight="bold" line-height="20px">
+          Total
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right" padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          $189.99
+
+        </mj-text>
+        <mj-text align="right" padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+          $14.82
+
+        </mj-text>
+        <mj-text padding-bottom="50px" align="right" padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" font-weight="bold" line-height="20px">
+          $204.81
+        </mj-text>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Explore More Items-->
+    </mj-raw>
+
+    <mj-wrapper padding-top="0px" background-color="#F9F9F9">
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" padding-top="30px" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="32px" font-weight="bold">
+            Explore More Items
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-image width="150px" align="center" src="https://i.ibb.co/6Zd4PKD/titan-hex-bar.jpg" alt="Hex barbell" href="https://www.titan.fitness/strength/barbells/specialty/olympic-hex-weight-bar/430009.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+          <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
+            <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/barbells/specialty/olympic-hex-weight-bar/430009.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Olympic Hex Weight Bar</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="150px" align="center" src="https://i.ibb.co/kK4mqSM/titan-incline-bench.jpg" alt="Incline Bench" href="https://www.titan.fitness/strength/benches/adjustable/incline-bench-v3/401490.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+          <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
+            <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/benches/adjustable/incline-bench-v3/401490.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Incline Bench v3</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image width="150px" align="center" src="https://i.ibb.co/dWs5wVq/titan-weight-plate.jpg" alt="45 Pound Weight Plate" href="https://www.titan.fitness/strength/weight-plates/cast-iron-plates/45-lb-single-cast-iron-olympic-plate/430232.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+          <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
+            <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/weight-plates/cast-iron-plates/45-lb-single-cast-iron-olympic-plate/430232.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">45 LB Single Cast Iron Olympic Plate</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="150px" align="center" src="https://i.ibb.co/48v3fLv/titan-barbell.jpg" alt="Economy Olympic Barbell" href="https://www.titan.fitness/strength/barbells/olympic/economy-olympic-barbell/430085.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+          <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
+            <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/barbells/olympic/economy-olympic-barbell/430085.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Economy Olympic Barbell</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-raw>
+      <!-- Bottom Menu -->
+    </mj-raw>
+
+    <mj-wrapper background-color="#0b2440">
+      <mj-section>
+        <mj-group>
+          <mj-column>
+            <mj-text color="#ffffff" font-size="16px" font-weight="normal">
+              <a style="color:#ffffff; text-decoration:none; font-size:14px;" href="https://www.titan.fitness/new/">New Arrivals</a>
+            </mj-text>
+            <mj-text color="#ffffff" font-size="16px">
+              <a style="color:#ffffff; text-decoration:none; font-size:14px;" href="https://www.titan.fitness/racks/">Racks</a>
+            </mj-text>
+            <mj-text color="#ffffff" font-size="16px">
+              <a style="color:#ffffff; text-decoration:none; font-size:14px;" href="https://www.titan.fitness/strength/">Strength</a>
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text color="#ffffff" font-size="16px" font-weight="normal">
+              <a style="color:#ffffff; text-decoration:none; font-size:14px;" href="https://www.titan.fitness/strongman/">Strongman</a>
+            </mj-text>
+            <mj-text color="#ffffff" font-size="16px">
+              <a style="color:#ffffff; text-decoration:none; font-size:14px;" href="https://www.titan.fitness/endurance/">Endurance</a>
+            </mj-text>
+            <mj-text color="#ffffff" font-size="16px">
+              <a style="color:#ffffff; text-decoration:none; font-size:14px;" href="https://www.titan.fitness/sale/">Sale</a>
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-image width="168px" src="https://i.ibb.co/0fvWZTZ/titan-footer-logo.png" href="https://www.titan.fitness/"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+
+    <mj-raw>
+      <!-- Social Icons -->
+    </mj-raw>
+
+    <mj-wrapper padding-top="0px" background-color="#F9F9F9">
+      <mj-section padding-left="120px" padding-right="120px">
+   
+          <mj-column>
+            <mj-image align="center" width="48px" src="https://i.ibb.co/Sm7sWN4/titan-instagram.png" alt="Titan Fitness Instagram" href="https://www.instagram.com/?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20(Xhpw5N)&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image align="center" width="48px" src="https://i.ibb.co/mF2J0pr/titan-facebook.png" alt="Titan Fitness Facebook" href="https://www.facebook.com/?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20(Xhpw5N)&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image align="center" width="48px" src="https://i.ibb.co/PM57LzP/titan-twitter.png" alt="Titan Fitness Twitter" href="https://twitter.com/BeTitanFit?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image align="center" width="48px" src="https://i.ibb.co/qgWdQ1z/titan-youtube.png
+          " alt="Titan Fitness YouTube" href="https://www.youtube.com/channel/UC7CBtWC1Kx2DS1mEC350QxQ"></mj-image>
+          </mj-column>
+      
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="center">
+            <a style="color:#9c9c9c; text-decoration:underline; font-size:14px;" href="https://support.titan.fitness/hc/en-us/requests/new?ticket_form_id=151263&utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Customer Service</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center">
+            <a style="color:#9c9c9c; text-decoration:underline; font-size:14px;" href="https://www.titan.fitness/on/demandware.store/Sites-TitanFitness-Site/default/Order-TrackForm?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Order Status</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center">
+            <a style="color:#9c9c9c; text-decoration:underline; font-size:14px;" href="https://www.titan.fitness/financing.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Financing</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 100px">
+        <mj-column>
+          <mj-text color="#9c9c9c" font-size="12px" align="center" line-height="17px">
+            Sent to nicholas.gersbach@yahoo.com on January 10, 2023
+            3839 Forest Hill Irene Rd. Memphis TN 38125 | (800) 605-7595
+          </mj-text>
+          <mj-text color="#9c9c9c" font-size="12px" align="center" line-height="17px">
+            &copy;2022 TITAN BRANDS ALL RIGHTS RESERVED
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
