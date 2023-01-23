@@ -160,6 +160,7 @@
     </mj-section>
 
     <mj-section>
+    <mj-group>
       <mj-column>
         <mj-image width="200px" align="left" width="100px" src="https://i.ibb.co/GHncCzk/titan-multigrip-bar.jpg" href="https://titanfitness.com"></mj-image>
       </mj-column>
@@ -181,6 +182,7 @@
 
         </mj-text>
       </mj-column>
+      </mj-group>
     </mj-section>
 
     <mj-raw>
