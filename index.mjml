@@ -10,10 +10,7 @@
         color: #004c3f;
       }
 
-      @media (max-width: 480px) {
-
-      }
-
+      @media (max-width: 480px) {}
     </mj-style>
   </mj-head>
   <mj-body>
@@ -201,39 +198,39 @@
 
 
     <mj-section>
-      <mj-group>
-        <mj-column>
-          <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="24px" font-weight="bold">
-            Order Summary
-          </mj-text>
-        </mj-column>
+      <mj-column>
+        <mj-text padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="24px" font-weight="bold">
+          Order Summary
+        </mj-text>
+      </mj-column>
     </mj-section>
 
     <mj-section padding="0">
-      <mj-column width="50%">
-        <mj-text align="left" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
-          Subtotal
-        </mj-text>
-        <mj-text align="left" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
-          Taxes
-        </mj-text>
-        <mj-text align="left" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px" font-weight="bold">
-          Total
-        </mj-text>
-      </mj-column>
-      <mj-column width="50%">
-        <mj-text align="right" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
-          $189.99
+      <mj-group>
+        <mj-column>
+          <mj-text align="left" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+            Subtotal
+          </mj-text>
+          <mj-text align="left" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+            Taxes
+          </mj-text>
+          <mj-text align="left" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px" font-weight="bold">
+            Total
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="right" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+            $189.99
 
-        </mj-text>
-        <mj-text align="right" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
-          $14.82
+          </mj-text>
+          <mj-text align="right" padding-top="0" padding-bottom="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" line-height="20px">
+            $14.82
 
-        </mj-text>
-        <mj-text padding-bottom="50px" align="right" padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" font-weight="bold" line-height="20px">
-          $204.81
-        </mj-text>
-      </mj-column>
+          </mj-text>
+          <mj-text padding-bottom="50px" align="right" padding-top="0" font-family="Arial, Helvetica, sans-serif " color="#0b2440" font-size="16px" font-weight="bold" line-height="20px">
+            $204.81
+          </mj-text>
+        </mj-column>
       </mj-group>
     </mj-section>
 
@@ -250,37 +247,37 @@
         </mj-column>
       </mj-section>
       <mj-section>
-      <mj-group>
-        <mj-column>
-          <mj-image width="150px" align="center" src="https://i.ibb.co/6Zd4PKD/titan-hex-bar.jpg" alt="Hex barbell" href="https://www.titan.fitness/strength/barbells/specialty/olympic-hex-weight-bar/430009.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
-          <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
-            <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/barbells/specialty/olympic-hex-weight-bar/430009.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Olympic Hex Weight Bar</a>
-          </mj-text>
-        </mj-column>
-        <mj-column>
-          <mj-image width="150px" align="center" src="https://i.ibb.co/kK4mqSM/titan-incline-bench.jpg" alt="Incline Bench" href="https://www.titan.fitness/strength/benches/adjustable/incline-bench-v3/401490.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
-          <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
-            <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/benches/adjustable/incline-bench-v3/401490.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Incline Bench v3</a>
-          </mj-text>
-        </mj-column>
-         </mj-group>
+        <mj-group>
+          <mj-column>
+            <mj-image width="150px" align="center" src="https://i.ibb.co/6Zd4PKD/titan-hex-bar.jpg" alt="Hex barbell" href="https://www.titan.fitness/strength/barbells/specialty/olympic-hex-weight-bar/430009.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+            <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
+              <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/barbells/specialty/olympic-hex-weight-bar/430009.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Olympic Hex Weight Bar</a>
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-image width="150px" align="center" src="https://i.ibb.co/kK4mqSM/titan-incline-bench.jpg" alt="Incline Bench" href="https://www.titan.fitness/strength/benches/adjustable/incline-bench-v3/401490.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+            <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
+              <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/benches/adjustable/incline-bench-v3/401490.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Incline Bench v3</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
       </mj-section>
 
       <mj-section>
-       <mj-group>
-        <mj-column>
-          <mj-image width="150px" align="center" src="https://i.ibb.co/dWs5wVq/titan-weight-plate.jpg" alt="45 Pound Weight Plate" href="https://www.titan.fitness/strength/weight-plates/cast-iron-plates/45-lb-single-cast-iron-olympic-plate/430232.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
-          <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
-            <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/weight-plates/cast-iron-plates/45-lb-single-cast-iron-olympic-plate/430232.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">45 LB Single Cast Iron Olympic Plate</a>
-          </mj-text>
-        </mj-column>
-        <mj-column>
-          <mj-image width="150px" align="center" src="https://i.ibb.co/48v3fLv/titan-barbell.jpg" alt="Economy Olympic Barbell" href="https://www.titan.fitness/strength/barbells/olympic/economy-olympic-barbell/430085.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
-          <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
-            <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/barbells/olympic/economy-olympic-barbell/430085.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Economy Olympic Barbell</a>
-          </mj-text>
-        </mj-column>
-         </mj-group>
+        <mj-group>
+          <mj-column>
+            <mj-image width="150px" align="center" src="https://i.ibb.co/dWs5wVq/titan-weight-plate.jpg" alt="45 Pound Weight Plate" href="https://www.titan.fitness/strength/weight-plates/cast-iron-plates/45-lb-single-cast-iron-olympic-plate/430232.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+            <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
+              <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/weight-plates/cast-iron-plates/45-lb-single-cast-iron-olympic-plate/430232.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">45 LB Single Cast Iron Olympic Plate</a>
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-image width="150px" align="center" src="https://i.ibb.co/48v3fLv/titan-barbell.jpg" alt="Economy Olympic Barbell" href="https://www.titan.fitness/strength/barbells/olympic/economy-olympic-barbell/430085.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
+            <mj-text align="center" text-decoration="underline" font-size="15px" color="#0b2440">
+              <a style="color:#0b2440; text-decoration:underline; font-size:15px;" href="https://www.titan.fitness/strength/barbells/olympic/economy-olympic-barbell/430085.html?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20%28Xhpw5N%29&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf">Economy Olympic Barbell</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
       </mj-section>
     </mj-wrapper>
 
@@ -328,7 +325,7 @@
     <mj-wrapper padding-top="0px" background-color="#F9F9F9">
       <mj-section padding-left="0px" padding-right="0px">
 
-           <mj-group>
+        <mj-group>
           <mj-column>
             <mj-image align="center" width="48px" src="https://i.ibb.co/Sm7sWN4/titan-instagram.png" alt="Titan Fitness Instagram" href="https://www.instagram.com/?utm_source=Klaviyo&utm_medium=email&utm_campaign=Ongoing-TF-Transactional-SFCCOrderConfirmation%20(Xhpw5N)&bxid=01FRG8AWD03E1VH8WWCFKP0FFF&_kx=xdCgqgZ8JbgM0RBHsN19rPhmxL__lsSl3UTvjPrntZrSaJ8CHfKNbx4nW8At8XLd.RTDPcf"></mj-image>
           </mj-column>
@@ -342,7 +339,7 @@
             <mj-image align="center" width="48px" src="https://i.ibb.co/qgWdQ1z/titan-youtube.png
           " alt="Titan Fitness YouTube" href="https://www.youtube.com/channel/UC7CBtWC1Kx2DS1mEC350QxQ"></mj-image>
           </mj-column>
-       </mj-group>
+        </mj-group>
       </mj-section>
 
       <mj-section>
